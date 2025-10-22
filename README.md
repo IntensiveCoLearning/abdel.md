@@ -1,4 +1,4 @@
-# Your Intensive Co-learning Name
+# Abdel
 
 ## Introduction
 
@@ -14,20 +14,20 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 
-- Registration End Date: 
+- Registration Start Date: 2025-10-22
+- Registration End Date: 2025-10-29
 
 ## Study Duration
 
-- Study Start Date: 
-- Study End Date: 
+- Study Start Date: 2025-10-30
+- Study End Date: 2025-11-20
 
 ## Initiator
 
-- Name: 
-- GitHub ID: 
-- Telegram: 
-- Email: 
+- Name: Abdel
+- GitHub ID: abdelhaqs
+- Telegram: Abthelhak
+- Email: kenitra.city59@gmail.com
 
 ## Organizations
 
